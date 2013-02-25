@@ -1,0 +1,50 @@
+.header {
+	text-align:center;
+}
+
+.get-js form {
+	border: 1px solid #9C0;
+	padding: 16px;
+}
+
+.get-js div {
+	clear:both;
+	background-color: #f2f2f2;
+	border: 1px solid #b9b8b8;
+	margin-bottom: 20px;
+	padding: 10px;
+	vertical-align:middle;
+	}
+
+.get-js label {
+	float:left;
+	width: 200px;
+}
+
+
+
+#filename {
+	width: 50%;
+}
+
+.sub-form {
+	text-align:right;
+	padding-right: 20px;
+}
+
+#submit-btn {
+	padding: 10px;
+	background-color: #C27C12;
+	color: #fff;
+	border: 1px solid #9f7d49;
+	border-radius: 4px;
+	-webkit-box-shadow: 1px 1px 2px 0px #c4c3c3; /* Android 2.3+, iOS 4.0.2-4.2, Safari 3-4 */
+    box-shadow: 1px 1px 2px 0px #c4c3c3; /* Chrome 6+, Firefox 4+, IE 9+, iOS 5+, Opera 10.50+ */
+	cursor: pointer;
+}
+
+#submit-btn:hover {
+	background-color:#8D8732;
+	border: 1px solid #666;
+}
+

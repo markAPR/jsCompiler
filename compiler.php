@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Avios Script Minification Service Using Google Closure Compiler</title>
+<title>Javascript Script Minification Service Using Google Closure Compiler</title>
 <link rel="stylesheet" type="text/css" href="css/base-styles.css">
 <link rel="stylesheet" type="text/css" href="css/compiler-styles.css">
 </head>
@@ -12,7 +12,7 @@
 <div class="container test">
   <div class="row">
     <div class="col_12 header">
-		<h2>Avios Javascript Minification Service</h2>
+		<h2>Javascript Minification Service</h2>
 		<p> Use the browse button to choose the file you would like to minify, then hit the 'Minify Script Now' button</p>
 	</div>
 	
